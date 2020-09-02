@@ -1,0 +1,15 @@
+{
+  "name": "blockset-hello-world",
+  "version": "1.0.0",
+  "description": "Blockset API Demo - Hello World API",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Blockset",
+  "license": "Unlicense",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
